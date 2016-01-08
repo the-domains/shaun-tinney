@@ -1,7 +1,7 @@
 name: Shaun Tinney
 favicon: null
-layout_spectrum: 0.6803053780458868
-typography_spectrum: 0.1826393899973482
+layout_spectrum: 0.24459
+typography_spectrum: 1
 title: Shaun Tinney is a professional creative person
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.43238063575699925
-  lightness: 0.8036133258137852
-  saturation: 0.37874831701628864
-  rhythmicContrast: 0.9109076922759414
+    - '#fbfbfb'
+    - '#0d0c14'
+    - '#8c9bb3'
+    - '#394860'
+    - '#1378bb'
+  brandStrength: 0.375
+  lightness: 0.9375
+  saturation: 0.5625
+  rhythmicContrast: 1
 purpose: []
