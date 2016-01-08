@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-08T04:35:17.361Z'
-dateModified: '2016-01-08T04:27:58.327Z'
+datePublished: '2016-01-08T04:48:55.201Z'
+dateModified: '2016-01-08T04:48:17.515Z'
 title: SoundCloud
 author: []
 authors: []
@@ -22,7 +22,7 @@ published: true
 _type: Blurb
 
 ---
-# [SoundCloud][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b363eeb-d5b3-4ac2-a349-e399bd46b46e.jpg)
+[SoundCloud][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f608ed08-c18d-4bd1-b812-75ba9bee3b09.jpg)
 
 [0]: https://soundcloud.com/shauntinney
